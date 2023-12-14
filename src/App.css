@@ -1,0 +1,10 @@
+.h1style{
+  min-width: 20rem;
+  width: 60rem;
+  padding: 2rem 2rem;
+  background-color: azure;
+  color: #2980b9;
+  border-radius: 5rem;
+  box-shadow: 0rem 2rem 2rem --1.5rem rgba(0, 0, 0, 0.5);
+  margin-top: 2rem;
+}
