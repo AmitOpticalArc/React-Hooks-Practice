@@ -5,6 +5,8 @@ import UseStateArray from "./components/UseStateArray";
 import UseStateObject from "./components/UseStateObject";
 import ShortCirEval from "./components/ShortCirEval";
 import UseEffectd1 from "./components/useEffect/UseEffectd1";
+import UseEffect2 from "./components/useEffect/UseEffect2";
+import UseEffectAPI from "./components/useEffect/UseEffectAPI";
 
 function App() {
   return (
@@ -12,7 +14,9 @@ function App() {
     //   <UseStateHook />
     // <UseStateObject />
     // <ShortCirEval />
-    <UseEffectd1 />
+    // <UseEffectd1 />
+    // <UseEffect2 />
+    <UseEffectAPI />
   );
 }
 
